@@ -6,6 +6,6 @@
 
 ## 演示
 
-[网页演示地址]((https://samwang-fengniaozhineng.github.io/about/))
+[网页演示地址]([https://samwang-fengniaozhineng.github.io/about/])
 
 在手机或平板或电脑上查看该网页。
