@@ -71,6 +71,7 @@ var config = {
         "     <li>熟悉缓存、消息等机制。</li>" +
         "     <li>了解分布式系统的设计与应用。</li>" +
         "     <li>熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
+        "     <li>除了第一个，我都还没有实现（doge）</li>" +
         " </ul>",
 
 
